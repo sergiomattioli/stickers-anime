@@ -3,6 +3,688 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dragonballz17",
+         "name":"Dragon Ball Z 17",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"dragonballz16",
+         "name":"Dragon Ball Z 16",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"dragonballz15",
+         "name":"Dragon Ball Z 15",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"dragonballz14",
+         "name":"Dragon Ball Z 14",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },      
+      {
+         "identifier":"dragonballz13",
+         "name":"Dragon Ball Z 13",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"dragonballz12",
+         "name":"Dragon Ball Z 12",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "identifier":"dragonballz11",
+         "name":"Dragon Ball Z 11",
+         "publisher":"Astro Mobile",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"astro.mobile.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agreement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":true,
+         "tags":"",
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            }
+         ]
+      },
+      {
          "identifier":"dragonballz1",
          "name":"Dragon Ball Z 1",
          "publisher":"Astro Mobile",
