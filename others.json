@@ -3,7 +3,6 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         {
          "identifier":"cowboybebopvid1",
          "name":"Cowboy Bebop (1)",
          "publisher":"Astro Mobile",
@@ -351,6 +350,7 @@
             }
          ]
       },
+      {
          "identifier":"luckystarnicole1",
          "name":"Lucky Star 1",
          "publisher":"Astro Mobile",
