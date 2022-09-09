@@ -13,7 +13,7 @@
          "license_agreement_website":"",
          "image_data_version":"1",
          "avoid_cache":false,
-         "isAnimated":false,
+         "isAnimated":true,
          "tags":"",
          "stickers":[
             {
@@ -119,7 +119,7 @@
          "license_agreement_website":"",
          "image_data_version":"1",
          "avoid_cache":false,
-         "isAnimated":false,
+         "isAnimated":true,
          "tags":"",
          "stickers":[
             {
@@ -225,7 +225,7 @@
          "license_agreement_website":"",
          "image_data_version":"1",
          "avoid_cache":false,
-         "isAnimated":false,
+         "isAnimated":true,
          "tags":"",
          "stickers":[
             {
@@ -331,7 +331,7 @@
          "license_agreement_website":"",
          "image_data_version":"1",
          "avoid_cache":false,
-         "isAnimated":false,
+         "isAnimated":true,
          "tags":"",
          "stickers":[
             {
